@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1687280294369" clover="3.2.0">
+  <project timestamp="1687280294369" name="All files">
+    <metrics statements="9" coveredstatements="6" conditionals="22" coveredconditionals="13" methods="3" coveredmethods="1" elements="34" coveredelements="20" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="CharacterItem.tsx" path="/Users/danielegonzalez/apps/0be82507d516495199b3ef016cfb92b0/src/components/CharacterItem.tsx">
+      <metrics statements="9" coveredstatements="6" conditionals="22" coveredconditionals="13" methods="3" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="83" count="0" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="92" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
