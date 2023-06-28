@@ -31,7 +31,7 @@ const CharactersList = () => {
 
   return (
     <div id="characters">
-      <Box direction="row" align="center" justify="between">
+      <Box direction="row" align="center" justify="between" pad={"large"}>
         <Heading>Characters</Heading>
         <Pagination
           // @ts-ignore
@@ -44,7 +44,7 @@ const CharactersList = () => {
         />
       </Box>
 
-      <Grid gap="medium" columns={{ count: "fit", size: "medium" }}>
+      <Grid gap="medium" columns={{ count: "fit", size: "medium" }} pad="large">
         {data?.docs.map((character) => {
           return (
             <CharacterItem
